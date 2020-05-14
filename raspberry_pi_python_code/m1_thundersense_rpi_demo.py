@@ -22,7 +22,7 @@ LOGIN_INFO = {
     'api_key': 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 }
 
-ENDPOINT = 'https://api-sandbox.mediumone.com'
+ENDPOINT = 'https://api.mediumone.com'
 DEVICE_ADDR = '01:02:03:04:05:06'
 INTERVAL_SECONDS = 10
 INTERVAL_SECONDS_ACCEL = 2
