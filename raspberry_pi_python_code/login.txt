@@ -1,4 +1,4 @@
-username
+device_username
 Samplepw1
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 01:23:45:67:89:00
