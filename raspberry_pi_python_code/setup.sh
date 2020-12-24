@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 sudo mkdir /m1
-sudo mv /home/pi/thundersense.sh /etc/init.d/
-sudo mv /home/pi/login.txt /m1/
-sudo mv /home/pi/m1_thundersense_rpi_demo.py /m1/
+sudo mv ./thundersense.sh /etc/init.d/
+sudo mv ./login.txt /m1/
+sudo mv ./m1_thundersense_rpi_demo.py /m1/
 sudo chmod 755 /etc/init.d/thundersense.sh
 sudo chown root  /etc/init.d/thundersense.sh
 sudo chgrp root  /etc/init.d/thundersense.sh
